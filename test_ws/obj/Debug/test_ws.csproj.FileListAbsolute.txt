@@ -1,0 +1,9 @@
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\bin\Debug\test_ws.exe.config
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\bin\Debug\test_ws.exe
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\bin\Debug\test_ws.pdb
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.csprojResolveAssemblyReference.cache
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.Form1.resources
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.Properties.Resources.resources
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.csproj.GenerateResource.Cache
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.exe
+c:\users\sholeh\documents\visual studio 2015\Projects\test_ws\test_ws\obj\Debug\test_ws.pdb
